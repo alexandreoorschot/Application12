@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string name="title">Shared Linux ID Demo</string>
+    <string name="application1">Application 1</string>
+</resources>
